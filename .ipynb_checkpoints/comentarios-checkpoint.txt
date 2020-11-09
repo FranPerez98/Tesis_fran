@@ -1,0 +1,2 @@
+mobunet
+mobunet3: data aug - 256*256*3 - 30 epocas - dice=0.4367
